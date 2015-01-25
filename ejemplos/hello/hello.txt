@@ -1,0 +1,16 @@
+# instalar virtualenv
+pip install virtualenv
+
+# crear virtualenv
+virtualenv seminario
+
+# activar virtualenv
+source seminario/bin/activate
+
+# instalar Flask
+pip install Flask
+
+# escribir hello.py
+
+# ejecutar hello.py
+python hello.py

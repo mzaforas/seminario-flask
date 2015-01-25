@@ -1,0 +1,3 @@
+* Ejecutar app y hacer foto
+* Enseñar código controladores y templates (herencia bloques)
+* Enseñar como funciona depurador forzandu un error (0/0) ? comentar shell interactiva y navegación por código
