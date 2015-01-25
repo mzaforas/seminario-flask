@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Paradigma Demo{% endblock %}
+{% block content %}
+
+<div class="container">
+      <div class="header">
+        <h3 class="text-muted">Paradigma Demo</h3>
+      </div>
+
+      <div class="jumbotron">
+        <h1>Sonría!</h1>
+        <p><a class="btn btn-lg btn-success" href="{{ url_for('flash') }}" role="button">Flash!</a></p>
+      </div>
+
+    </div>
+
+{% endblock %}
